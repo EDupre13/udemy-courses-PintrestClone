@@ -13,7 +13,7 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 
 group :development, :test do
-  gem 'sqlite3'
+  gem 'sqlite3', '1.3.9'
 end
 
 group :production do
