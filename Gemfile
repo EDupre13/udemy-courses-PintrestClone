@@ -14,6 +14,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise', '~> 4.3'
+gem 'paperclip', '~> 5.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.9'
